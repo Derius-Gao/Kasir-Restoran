@@ -1,0 +1,55 @@
+CRITICAL - 2025-03-11 21:04:18 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-11 21:08:33 --> Call to a member function time() on string
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-11 21:13:26 --> Call to a member function time() on string
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-11 21:17:22 --> Class 'App\Filters\SessionTimeout' not found
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home/dashboard', 'before')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#4 {main}
+CRITICAL - 2025-03-11 21:18:52 --> Class 'App\Filters\SessionTimeout' not found
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home/dashboard', 'before')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#4 {main}
+CRITICAL - 2025-03-11 21:19:48 --> sessionTimeout filter must have a matching alias defined.
+#0 G:\My Drive\Restoran2\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('sessionTimeout')
+#1 G:\My Drive\Restoran2\system\Filters\Filters.php(243): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+#2 G:\My Drive\Restoran2\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home/dashboard')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home/dashboard', 'before')
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-11 21:20:10 --> Class 'App\Filters\SessionTimeout' not found
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home/dashboard', 'before')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#4 {main}
+CRITICAL - 2025-03-11 21:21:44 --> Class 'App\Filters\SessionTimeout' not found
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('home/dashboard', 'before')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#4 {main}

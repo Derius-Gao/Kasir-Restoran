@@ -1,0 +1,47 @@
+CRITICAL - 2025-03-15 02:22:37 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Pro...', 251, Array)
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->update_cart()
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}
+CRITICAL - 2025-03-15 02:22:38 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Pro...', 266, Array)
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->remove_cart()
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}
+CRITICAL - 2025-03-15 02:23:26 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Pro...', 266, Array)
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->remove_cart()
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}
+CRITICAL - 2025-03-15 02:24:05 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(251): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Pro...', 251, Array)
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->update_cart()
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}
+ERROR - 2025-03-15 02:51:47 --> Duplicate entry '1' for key 'id_menu'
+ERROR - 2025-03-15 02:52:01 --> Duplicate entry '1' for key 'id_menu'
+ERROR - 2025-03-15 02:54:22 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 02:54:47 --> Duplicate entry '1' for key 'id_menu'
+ERROR - 2025-03-15 02:55:00 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 02:56:01 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:02:56 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:03:18 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:04:40 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:07:14 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:09:04 --> Duplicate entry '4' for key 'id_menu'
+ERROR - 2025-03-15 03:09:38 --> Duplicate entry '1' for key 'id_user'
+ERROR - 2025-03-15 03:10:25 --> Duplicate entry '1' for key 'id_user'
+ERROR - 2025-03-15 03:15:30 --> Duplicate entry '1' for key 'id_user'
+ERROR - 2025-03-15 04:00:01 --> Duplicate entry '1' for key 'id_user'

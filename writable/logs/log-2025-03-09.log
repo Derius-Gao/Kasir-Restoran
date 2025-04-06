@@ -1,0 +1,22 @@
+ERROR - 2025-03-09 22:13:20 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2025-03-09 22:13:20 --> Call to a member function getResult() on bool
+#0 H:\My Drive\Restoran2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 H:\My Drive\Restoran2\app\Controllers\Home.php(267): CodeIgniter\BaseModel->findAll()
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->activityLogs()
+#3 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-09 23:09:57 --> Use of undefined constant admin - assumed 'admin' (this will throw an Error in a future version of PHP)
+#0 H:\My Drive\Restoran2\app\Views\surga.php(167): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'H:\\My Drive\\Res...', 167, Array)
+#1 H:\My Drive\Restoran2\system\View\View.php(210): include('H:\\My Drive\\Res...')
+#2 H:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 H:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('surga.php', Array, true)
+#4 H:\My Drive\Restoran2\app\Controllers\Home.php(23): view('surga.php')
+#5 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#6 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#10 {main}

@@ -1,0 +1,15 @@
+CRITICAL - 2025-03-31 05:23:04 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2025-03-31 05:37:18 --> Session id_user is missing.
+ERROR - 2025-03-31 05:37:42 --> Session id_user is missing.
+CRITICAL - 2025-03-31 09:26:04 --> Invalid file: deleted_users.php
+#0 G:\My Drive\Program Web\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('deleted_users.p...')
+#1 G:\My Drive\Program Web\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('deleted_users', Array, true)
+#2 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(280): view('deleted_users', Array)
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->deletedUsers()
+#4 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#8 {main}

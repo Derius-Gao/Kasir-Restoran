@@ -1,0 +1,128 @@
+CRITICAL - 2025-03-18 07:40:54 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:43:12 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:46:01 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:47:10 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:48:51 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:49:37 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:57:48 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 07:59:45 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:01:25 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:02:51 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:08:56 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:16:36 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:16:49 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:16:56 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:21:44 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:22:39 --> Too few arguments to function App\Controllers\Home::edituser(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->edituser()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-18 08:23:57 --> syntax error, unexpected '}'
+#0 G:\My Drive\Program Web\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}
+CRITICAL - 2025-03-18 08:24:15 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 G:\My Drive\Program Web\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}

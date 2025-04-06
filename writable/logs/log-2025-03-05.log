@@ -1,0 +1,94 @@
+CRITICAL - 2025-03-05 12:01:33 --> Class 'App\Controllers\UserModel' not found
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-05 12:02:18 --> Invalid file: usr.php
+#0 G:\My Drive\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usr.php')
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('usr', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(191): view('usr', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-05 12:02:57 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(191): view('tabeluser', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-05 12:15:19 --> Declaration of App\Models\UserModel::findALl() should be compatible with CodeIgniter\BaseModel::findAll(int $limit = 0, int $offset = 0)
+#0 G:\My Drive\Restoran2\app\Models\UserModel.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'G:\\My Drive\\Res...', 22, Array)
+#1 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(264): include_once('G:\\My Drive\\Res...')
+#2 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('G:\\My Drive\\Res...')
+#3 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\User...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\User...')
+#5 G:\My Drive\Restoran2\app\Controllers\Home.php(183): spl_autoload_call('App\\Models\\User...')
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#11 {main}
+CRITICAL - 2025-03-05 12:16:26 --> Declaration of App\Models\UserModel::findAll($table) should be compatible with CodeIgniter\BaseModel::findAll(int $limit = 0, int $offset = 0)
+#0 G:\My Drive\Restoran2\app\Models\UserModel.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'G:\\My Drive\\Res...', 22, Array)
+#1 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(264): include_once('G:\\My Drive\\Res...')
+#2 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('G:\\My Drive\\Res...')
+#3 G:\My Drive\Restoran2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\User...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\User...')
+#5 G:\My Drive\Restoran2\app\Controllers\Home.php(183): spl_autoload_call('App\\Models\\User...')
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#11 {main}
+CRITICAL - 2025-03-05 12:30:32 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-05 12:33:35 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-05 21:35:20 --> Class 'App\Controllers\ActivityLogModel' not found
+#0 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->activityLogs()
+#1 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#5 {main}
+ERROR - 2025-03-05 21:35:45 --> Table 'kasir_resto.activity_log' doesn't exist
+CRITICAL - 2025-03-05 21:35:45 --> Call to a member function getResult() on bool
+#0 H:\My Drive\Restoran2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 H:\My Drive\Restoran2\app\Controllers\Home.php(267): CodeIgniter\BaseModel->findAll()
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->activityLogs()
+#3 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#7 {main}
+ERROR - 2025-03-05 21:37:45 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2025-03-05 21:37:46 --> Call to a member function getResult() on bool
+#0 H:\My Drive\Restoran2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 H:\My Drive\Restoran2\app\Controllers\Home.php(267): CodeIgniter\BaseModel->findAll()
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->activityLogs()
+#3 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#7 {main}

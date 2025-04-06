@@ -1,0 +1,167 @@
+CRITICAL - 2025-03-04 00:56:11 --> Use of undefined constant  true - assumed ' true' (this will throw an Error in a future version of PHP)
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'G:\\My Drive\\Res...', 42, Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 00:57:36 --> Use of undefined constant  true - assumed ' true' (this will throw an Error in a future version of PHP)
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'G:\\My Drive\\Res...', 42, Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 01:00:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'G:\\My Drive\\Res...', 41, Array)
+#1 G:\My Drive\Restoran2\app\Controllers\Home.php(41): file_get_contents('https://www.goo...')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-04 01:06:14 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 01:06:29 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'G:\\My Drive\\Res...', 43, Array)
+#1 G:\My Drive\Restoran2\app\Controllers\Home.php(43): file_get_contents('https://www.goo...')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-04 01:08:03 --> Use of undefined constant  true - assumed ' true' (this will throw an Error in a future version of PHP)
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'G:\\My Drive\\Res...', 44, Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 01:09:06 --> syntax error, unexpected '}'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 01:09:20 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 01:09:34 --> Call to undefined function App\Controllers\   exit()
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-04 01:14:23 --> syntax error, unexpected '$a' (T_VARIABLE)
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 05:52:08 --> Call to undefined method stdClass::getRow()
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-04 05:53:42 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 05:54:03 --> syntax error, unexpected '}', expecting end of file
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+ERROR - 2025-03-04 07:10:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':0:' at line 3
+CRITICAL - 2025-03-04 07:10:41 --> Call to a member function getRow() on bool
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(94): App\Models\M_der->getWhere('menu', Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->detailmenu('2')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+ERROR - 2025-03-04 08:15:05 --> Column 'jumlah' cannot be null
+ERROR - 2025-03-04 08:19:08 --> Column 'jumlah' cannot be null
+ERROR - 2025-03-04 08:20:37 --> Column 'jumlah' cannot be null
+CRITICAL - 2025-03-04 20:12:16 --> syntax error, unexpected ';', expecting ']'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 20:20:02 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'G:\\My Drive\\Res...', 49, Array)
+#1 G:\My Drive\Restoran2\app\Controllers\Home.php(49): file_get_contents('https://www.goo...')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-04 20:40:42 --> syntax error, unexpected ';', expecting ')'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/logout')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/logout')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-04 20:42:19 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/logout')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/logout')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+ERROR - 2025-03-04 21:12:29 --> Unknown column 'username' in 'where clause'
+CRITICAL - 2025-03-04 21:12:30 --> Call to a member function getRow() on bool
+#0 H:\My Drive\Restoran2\app\Controllers\Home.php(66): App\Models\M_der->getWhere('user', Array)
+#1 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#6 {main}
+ERROR - 2025-03-04 21:13:29 --> Unknown column 'username' in 'where clause'
+CRITICAL - 2025-03-04 21:13:29 --> Call to a member function getRow() on bool
+#0 H:\My Drive\Restoran2\app\Controllers\Home.php(66): App\Models\M_der->getWhere('user', Array)
+#1 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#6 {main}

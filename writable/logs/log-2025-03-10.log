@@ -1,0 +1,251 @@
+CRITICAL - 2025-03-10 12:22:24 --> syntax error, unexpected '}'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 12:23:09 --> syntax error, unexpected '}'
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 12:23:21 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/login')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/login')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 12:45:35 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 12:45:56 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 12:46:13 --> Invalid file: usr.php
+#0 G:\My Drive\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usr.php')
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('usr', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(199): view('usr', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-10 13:04:43 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(199): view('tabeluser', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-10 13:08:00 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:09:48 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:11:45 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:12:48 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:13:06 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:22:23 --> Too few arguments to function App\Controllers\Home::hapus_user(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-10 13:22:37 --> `App\Models\M_der` model class does not specify a Primary Key.
+#0 G:\My Drive\Restoran2\system\Model.php(535): CodeIgniter\Exceptions\ModelException::forNoPrimaryKey('App\\Models\\M_de...')
+#1 G:\My Drive\Restoran2\system\Model.php(176): CodeIgniter\Model->builder()
+#2 G:\My Drive\Restoran2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#3 G:\My Drive\Restoran2\app\Models\M_der.php(101): CodeIgniter\BaseModel->findAll()
+#4 G:\My Drive\Restoran2\app\Controllers\Home.php(187): App\Models\M_der->getAllData()
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#10 {main}
+CRITICAL - 2025-03-10 13:23:29 --> Call to undefined method App\Models\M_der::getTotalByLevel
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(195): CodeIgniter\Model->__call('getTotalByLevel', Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 13:24:32 --> syntax error, unexpected '}'
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(200): view('tabeluser', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-10 13:24:50 --> array_filter() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_filter() ...', 'G:\\My Drive\\Res...', 236, Array)
+#1 G:\My Drive\Restoran2\app\Views\tabeluser.php(236): array_filter(NULL, Object(Closure))
+#2 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#3 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#5 G:\My Drive\Restoran2\app\Controllers\Home.php(200): view('tabeluser', Array)
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#11 {main}
+CRITICAL - 2025-03-10 13:26:16 --> Illegal string offset 'level'
+#0 G:\My Drive\Restoran2\app\Views\tabeluser.php(235): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'G:\\My Drive\\Res...', 235, Array)
+#1 [internal function]: CodeIgniter\View\View->{closure}('2')
+#2 G:\My Drive\Restoran2\app\Views\tabeluser.php(236): array_filter(Array, Object(Closure))
+#3 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#4 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#6 G:\My Drive\Restoran2\app\Controllers\Home.php(200): view('tabeluser', Array)
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#12 {main}
+CRITICAL - 2025-03-10 13:26:44 --> array_filter() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_filter() ...', 'G:\\My Drive\\Res...', 236, Array)
+#1 G:\My Drive\Restoran2\app\Views\tabeluser.php(236): array_filter(NULL, Object(Closure))
+#2 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#3 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#5 G:\My Drive\Restoran2\app\Controllers\Home.php(200): view('tabeluser', Array)
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#11 {main}
+CRITICAL - 2025-03-10 13:27:16 --> Illegal string offset 'level'
+#0 G:\My Drive\Restoran2\app\Views\tabeluser.php(235): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'G:\\My Drive\\Res...', 235, Array)
+#1 [internal function]: CodeIgniter\View\View->{closure}('2')
+#2 G:\My Drive\Restoran2\app\Views\tabeluser.php(236): array_filter(Array, Object(Closure))
+#3 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#4 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#6 G:\My Drive\Restoran2\app\Controllers\Home.php(200): view('tabeluser', Array)
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#8 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#12 {main}
+CRITICAL - 2025-03-10 13:28:39 --> Call to undefined method App\Models\UserModel::getAllData
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(186): CodeIgniter\Model->__call('getAllData', Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 13:29:03 --> Call to undefined method App\Models\UserModel::getAllData
+#0 G:\My Drive\Restoran2\app\Controllers\Home.php(186): CodeIgniter\Model->__call('getAllData', Array)
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-10 13:29:31 --> array_filter() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_filter() ...', 'G:\\My Drive\\Res...', 188, Array)
+#1 G:\My Drive\Restoran2\app\Controllers\Home.php(188): array_filter(NULL, Object(Closure))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#7 {main}
+CRITICAL - 2025-03-10 13:30:56 --> You must set the database table to be used with your query.
+#0 G:\My Drive\Restoran2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 G:\My Drive\Restoran2\system\Model.php(722): CodeIgniter\Model->builder()
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(219): CodeIgniter\Model->__call('setTableName', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->hapus_user('18')
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-10 22:19:07 --> array_filter() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_filter() ...', 'H:\\My Drive\\Res...', 236, Array)
+#1 H:\My Drive\Restoran2\app\Views\tabeluser.php(236): array_filter(NULL, Object(Closure))
+#2 H:\My Drive\Restoran2\system\View\View.php(210): include('H:\\My Drive\\Res...')
+#3 H:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 H:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser', Array, true)
+#5 H:\My Drive\Restoran2\app\Controllers\Home.php(192): view('tabeluser', Array)
+#6 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#11 {main}
+ERROR - 2025-03-10 22:25:26 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2025-03-10 22:25:26 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 H:\My Drive\Restoran2\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 H:\My Drive\Restoran2\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 H:\My Drive\Restoran2\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 H:\My Drive\Restoran2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 H:\My Drive\Restoran2\app\Models\UserModel.php(23): CodeIgniter\BaseModel->findAll()
+#5 H:\My Drive\Restoran2\app\Controllers\Home.php(185): App\Models\UserModel->getAllUsers()
+#6 H:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#7 H:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 H:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 H:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 H:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('H:\\My Drive\\Res...')
+#11 {main}

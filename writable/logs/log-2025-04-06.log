@@ -1,0 +1,9 @@
+ERROR - 2025-04-06 10:48:09 --> Session id_user is missing.
+ERROR - 2025-04-06 13:04:01 --> Table 'kasir_resto.activity_logs' doesn't exist
+CRITICAL - 2025-04-06 13:04:01 --> Call to a member function getResultArray() on bool
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->logActivitytab()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}

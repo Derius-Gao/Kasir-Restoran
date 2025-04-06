@@ -1,0 +1,19 @@
+CRITICAL - 2025-03-02 05:07:11 --> Invalid file: layouts/main.php
+#0 G:\My Drive\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 G:\My Drive\Restoran2\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('product.php', Array, true)
+#3 G:\My Drive\Restoran2\app\Controllers\Home.php(15): view('product.php')
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->heder()
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#9 {main}
+CRITICAL - 2025-03-02 05:53:29 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambahprod...')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambahprod...')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}

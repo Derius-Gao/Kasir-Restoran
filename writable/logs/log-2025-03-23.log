@@ -1,0 +1,30 @@
+ERROR - 2025-03-23 09:11:53 --> Session id_user is missing.
+CRITICAL - 2025-03-23 10:36:49 --> Too few arguments to function App\Controllers\Home::resetPasswordForm(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->resetPasswordForm()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-23 10:43:54 --> Too few arguments to function App\Controllers\Home::resetPasswordForm(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->resetPasswordForm()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-23 10:51:31 --> Too few arguments to function App\Controllers\Home::resetPasswordForm(), 0 passed in G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->resetPasswordForm()
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#5 {main}
+CRITICAL - 2025-03-23 11:51:46 --> Call to undefined method App\Models\UserModel::ForgotPassword
+#0 G:\My Drive\Program Web\Restoran2\app\Controllers\Home.php(139): CodeIgniter\Model->__call('ForgotPassword', Array)
+#1 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->forgotpassword()
+#2 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 G:\My Drive\Program Web\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Program Web\Restoran2\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Program Web\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Pro...')
+#6 {main}

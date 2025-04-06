@@ -1,0 +1,345 @@
+CRITICAL - 2025-03-03 06:21:37 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:27:20 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:28:10 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:29:49 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:30:09 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:31:26 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:33:05 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:33:40 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:34:41 --> Too few arguments to function App\Controllers\Home::show(), 0 passed in G:\My Drive\Restoran2\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show()
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:34:50 --> Call to a member function first() on null
+#0 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show('0')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#5 {main}
+CRITICAL - 2025-03-03 06:36:57 --> Invalid file: home/menu.php
+#0 G:\My Drive\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/menu.php')
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('home/menu', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(78): view('home/menu', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->show('1')
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 06:39:34 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Restoran2\app\Views\makanan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Res...', 16, Array)
+#1 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#2 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#4 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#10 {main}
+CRITICAL - 2025-03-03 06:41:15 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 06:45:10 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 06:45:43 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 06:46:08 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 06:46:26 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:10:33 --> syntax error, unexpected ')'
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(76): view('tabeluser.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:12:32 --> syntax error, unexpected ')'
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(76): view('tabeluser.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:16:08 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 G:\My Drive\Restoran2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/usr')
+#1 G:\My Drive\Restoran2\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/usr')
+#2 G:\My Drive\Restoran2\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#6 {main}
+CRITICAL - 2025-03-03 12:17:48 --> syntax error, unexpected ')'
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(80): view('tabeluser.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:20:23 --> Invalid argument supplied for foreach()
+#0 G:\My Drive\Restoran2\app\Views\tabeluser.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'G:\\My Drive\\Res...', 34, Array)
+#1 G:\My Drive\Restoran2\system\View\View.php(210): include('G:\\My Drive\\Res...')
+#2 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabeluser.php', Array, true)
+#4 G:\My Drive\Restoran2\app\Controllers\Home.php(80): view('tabeluser.php')
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->usr()
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#10 {main}
+CRITICAL - 2025-03-03 12:24:38 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:27:24 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(64): view('makanan.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->makanan()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:29:15 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('makanan.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:30:10 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('makanan.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:30:55 --> Invalid file: product.php
+#0 G:\My Drive\Restoran2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product.php')
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('product.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(15): view('product.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->heder()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:31:59 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('makanan.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:32:34 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('makanan.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('makanan.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:48:23 --> Cannot use object of type stdClass as array
+#0 G:\My Drive\Restoran2\system\View\View.php(210): include()
+#1 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabelmenu.php', Array, true)
+#3 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('tabelmenu.php', Array)
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#9 {main}
+CRITICAL - 2025-03-03 12:49:33 --> Cannot use object of type stdClass as array
+#0 G:\My Drive\Restoran2\system\View\View.php(210): include()
+#1 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabelmenu.php', Array, true)
+#3 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('tabelmenu.php', Array)
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#9 {main}
+CRITICAL - 2025-03-03 12:51:26 --> Cannot use object of type stdClass as array
+#0 G:\My Drive\Restoran2\system\View\View.php(210): include()
+#1 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('tabelmenu.php', Array, true)
+#3 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('tabelmenu.php', Array)
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#9 {main}
+CRITICAL - 2025-03-03 12:54:49 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('menu.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(77): view('menu.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->meanu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 12:57:29 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('menu.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(77): view('menu.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->meanu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 19:58:42 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('menu.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(77): view('menu.php')
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->meanu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 20:01:51 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('menu.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('menu.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}
+CRITICAL - 2025-03-03 20:18:56 --> syntax error, unexpected end of file
+#0 G:\My Drive\Restoran2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 G:\My Drive\Restoran2\system\Common.php(1089): CodeIgniter\View\View->render('menu.php', Array, true)
+#2 G:\My Drive\Restoran2\app\Controllers\Home.php(68): view('menu.php', Array)
+#3 G:\My Drive\Restoran2\system\CodeIgniter.php(832): App\Controllers\Home->menu()
+#4 G:\My Drive\Restoran2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 G:\My Drive\Restoran2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 G:\My Drive\Restoran2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 G:\My Drive\Restoran2\system\Commands\Server\rewrite.php(43): require_once('G:\\My Drive\\Res...')
+#8 {main}

@@ -1,0 +1,8 @@
+CRITICAL - 2025-03-19 09:47:57 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2025-03-19 09:54:06 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2025-03-19 09:58:11 --> Table 'kasir_resto.transaksi_detial' doesn't exist
+ERROR - 2025-03-19 10:15:56 --> Session id_user is missing.

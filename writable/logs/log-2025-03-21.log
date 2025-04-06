@@ -1,0 +1,3 @@
+ERROR - 2025-03-21 09:02:06 --> Table 'kasir_resto.transaksi_detial' doesn't exist
+ERROR - 2025-03-21 09:04:01 --> Table 'kasir_resto.transaksi_detial' doesn't exist
+ERROR - 2025-03-21 09:25:56 --> Unknown column 'id_transaksi' in 'field list'
